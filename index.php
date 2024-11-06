@@ -16,13 +16,16 @@
 	</header>
 
 	<section style="margin-left: 300px; margin-top: 100px;">
-		<a href="exer1.php">Exercício 1</a>
+		<a href="exers/exer1.php">Exercício 1</a>
 		<br>
 		<br>
-		<a href="exer2.php">Exercício 2</a>
+		<a href="exers/exer2.php">Exercício 2</a>
+	</section>
+	<section style="margin-left: 300px; margin-top: 100px;">
+		<a href="forms/formexer1.php">Formulário 1</a>
 		<br>
 		<br>
-		<a href="exer3.php">Exercício 3</a>
+		<a href="forms/formexer2.php">Formulário 2</a>
 	</section>
 
 	<footer>
